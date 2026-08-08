@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+*.db
+test_sahaya_ai.db
+.pytest_cache/
+.coverage
+.next/
+out/
+build/
+dist/
